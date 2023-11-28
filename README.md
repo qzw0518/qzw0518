@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm qzw0518
 
-I am a NLP engineer, currently in Wuhan. 
-Used to be a software developer.
+I am a Software Engineer, currently in Wuhan. 
 
 
 
-- 🔭 I’m currently working on NLP
+- 🔭 I’m currently working on Software development
 - 🌱 I’m currently learning NLP
 <!--
 - 👯 I’m looking to collaborate on ...
